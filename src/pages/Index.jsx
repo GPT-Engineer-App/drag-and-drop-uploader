@@ -43,12 +43,6 @@ const Index = () => {
             <Button rightIcon={<FaSignInAlt />} colorScheme="blue" type="submit">
               Login
             </Button>
-            <Text>
-              Don't have an account?{" "}
-              <Link color="teal.500" href="#">
-                Sign up
-              </Link>
-            </Text>
           </VStack>
         </Box>
       </Container>
